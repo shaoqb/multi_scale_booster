@@ -103,7 +103,7 @@ Download deeplsion dataset[2] in https://nihcc.app.box.com/v/DeepLesion
 ### Train
 
 ```
-python train.py --cfg config-path
+python train.py --cfg <config_path>
 ```
 
 ### Test
